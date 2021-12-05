@@ -1,0 +1,1 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/2.11.4/cloudinary-core-shrinkwrap.js" integrity="sha512-ncpTgabork7MaotpdVQQegdGsZqRvZ4j0vsUV73i2hwGD9cXObQtBSb0UKkUU2z5p999tHmzh67TTdbY4V55/A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

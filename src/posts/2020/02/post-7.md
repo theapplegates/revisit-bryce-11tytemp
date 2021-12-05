@@ -11,11 +11,13 @@ lastmod: 2020-04-02T12:23:00 # Comment-out this line with a # if content is unch
 
 Your opening text goes here.
 
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale,dpr_auto/v1638738964/color-thing.jpg"  alt="" class="cld-responsive">
+
 Seems like a good place to drop an egg picture.
 
 {% image "fancy-egg-meal.jpg", "fancy eggs" %}
 
-![Colors](https://applegate-paul.mo.cloudinary.net/images/color-thing.jpg)
+![Colors](https://applegate-paul.mo.cloudinary.net/color-thing.jpg)
 
 
 ## In-article heading --- it's an H2 because your title is the H1
