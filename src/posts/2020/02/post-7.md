@@ -15,6 +15,8 @@ Seems like a good place to drop an egg picture.
 
 {% image "fancy-egg-meal.jpg", "fancy eggs" %}
 
+![Colors](https://applegate-paul.mo.cloudinary.net/images/color-thing.jpg)
+
 
 ## In-article heading --- it's an H2 because your title is the H1
 
